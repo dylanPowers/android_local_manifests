@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="CyanogenMod/android_device_lge_g2-common" path="device/lge/g2-common" />
+  <project name="CyanogenMod/android_kernel_lge_msm8974" path="kernel/lge/msm8974" />
+
+  <!-- Proprietaries -->
+  <project name="TheMuppets/proprietary_vendor_lge" path="vendor/lge" />
+
+  <!-- Personal projects -->
+  <project name="dylanPowers/android_build-ls980" path="build-ls980" revision="refs/heads/master"/>
+  <project name="CyanogenMod/android_device_lge_ls980" path="device/lge/ls980" />
+</manifest>
